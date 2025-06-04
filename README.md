@@ -1,6 +1,12 @@
 # Oracle Data Guard Fast-Start Failover (FSFO) Configuration Guide
 
 Panduan lengkap konfigurasi FSFO Oracle Data Guard, mulai dari instalasi observer, konfigurasi flashback, broker, hingga failover otomatis.
+---
+<div align="right">
+
+📘 *Authored by Zubair OCP*
+
+</div>
 
 ---
 
